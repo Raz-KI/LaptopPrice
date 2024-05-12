@@ -1,5 +1,4 @@
 streamlit
-sklearn
 altair==4.0
 scikit-learn==0.23
 pandas<2.0.0
